@@ -1,10 +1,13 @@
 h1 {
-    color:red;
+    color:rgb(25, 0, 255);
 }
 
 body {
-    background-color: aqua;
+    background-color: rgb(34, 94, 94);
 }
 p {
-    color:blue;
+    color:rgb(233, 111, 12);
 }
+h1 {color:blue}
+body {
+    background-color: darkgrey;}
